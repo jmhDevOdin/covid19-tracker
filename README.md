@@ -6,4 +6,16 @@ Hosted on firebase here:
 
 Check my portfolio of other projects here: http://jharrison-portfolio.42web.io/#banner
 
+Check my trello here: https://trello.com/b/q7tw7kEx/template-board
+
 ## Screenshot of app in action
+
+![alt text](images/covid19-tracker-screenshot.png)
+
+## Screenshot of active trello
+
+![alt text](images/covid19-tracker-trello.png)
+
+## Screenshot of wireframe mock-up
+
+![alt text](images/covid19-tracker-wireframes-creenshot.png)
