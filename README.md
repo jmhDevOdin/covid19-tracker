@@ -4,7 +4,7 @@ React based web app hosted on Firebase pulling live Covid 19 data and rendering 
 
 Hosted on firebase here: https://covid-19-tracker-b6944.web.app/
 
-Check my portfolio of other projects here: http://jharrison-portfolio.42web.io/#banner
+Check my portfolio of other projects here: https://portfolio-site-a770f.web.app/
 
 Check my trello here: https://trello.com/b/q7tw7kEx/template-board
 
